@@ -3,7 +3,7 @@
 int main()
 {
 	int x, y, z;
-    int temp;
+	int temp;
 	scanf("%d,%d,%d", &x, &y, &z);
 	
 	if (x>y) {
