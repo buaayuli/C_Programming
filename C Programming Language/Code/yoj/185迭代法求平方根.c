@@ -4,7 +4,7 @@
 int main()
 {
 	int a, t = 1;
-    double x, st;
+	double x, st;
 
 	scanf("%d", &a);
 	
