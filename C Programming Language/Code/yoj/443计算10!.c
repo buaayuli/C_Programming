@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main(){
-
+int main()
+{
 	int i, f=1;
 	for (i=1; i<=10; i++)
 		f *= i;
